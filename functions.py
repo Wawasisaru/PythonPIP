@@ -40,4 +40,5 @@ def capitalize_words(name):
         new_words.append(i.capitalize())
     return new_words
 print(capitalize_words("nancy"))
-    
+
+
